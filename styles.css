@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+div {
+    background-color: teal;
+    margin: 30px;
+    padding: 30px;
+    border: 3px solid blue;
+}
+h3 {
+    color: darkgoldenrod;
+    text-align: right;
+}
+
+p {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th,td {
+    border: 1px solid black;
+    padding : 5px;
+    background-color: blanchedalmond;
+}
+
+th {
+    background-color: lightcoral;
+}
+
+#top {
+    font-size: 36px;;
+}
+
+#middle {
+    font-size: 24px;;
+}
+
+#bottom {
+    font-size: 12px;;
+}
+
+.name {
+    font-weight: bold;
+}
